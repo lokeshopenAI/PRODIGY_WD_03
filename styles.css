@@ -17,13 +17,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url(Images/Tic_tac_toe.avif);
+    background-image: url(Tic_tac_toe.avif);
 }
 
 .cell {
     width: 100px;
     height: 100px;
-    background-color: green;
+    background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
